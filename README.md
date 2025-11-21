@@ -20,7 +20,7 @@ Apaixonado por propósito e esportes.
 
 ## 🌍 Línguas
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Avançado
+- 🇺🇸 Inglês — Básico
 
 
 💬 Sempre aberto a networking e novas oportunidades.
