@@ -1,8 +1,27 @@
-# 👋 Olá, eu sou **Vitor Rodrigues**
+# 👨🏻‍💻 Vitor Rodrigues Freitas Dos Santos
 
 ## 🧠 Sobre mim
-Cursando Análise e desenvolvimento de sistemas(2º/5º semestre) na Universidade São Judas Tadeu, apaixonado por esportes e propósito.
+Cursando tecnólogo Análise e desenvolvimento de sistemas (2º/5º semestre) na Universidade São Judas Tadeu.  
+Apaixonado por propósito e esportes.
 
-## 🌐 Onde me encontrar
-- 🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/vitor-rodrigues-773456245/)
-- 📧 **Email:** [SEU_EMAIL_GMAIL](https://mail.google.com/mail/u/0/?pli=1#inbox)
+
+
+📍 São Paulo  
+📧 **Email:** Vitorodrigues092@gmail.com
+
+---
+
+## 🌐 Minhas Redes
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/vitor-rodrigues-773456245/)
+- 🐙 **GitHub:** https://github.com/Vrodrigues03
+
+---
+
+
+## 🌍 Línguas
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Avançado
+
+
+💬 Sempre aberto a networking e novas oportunidades.
+
